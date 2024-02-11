@@ -1,5 +1,7 @@
 # Practica3Python_Gerardo
 Solución de ejercicios de la tercera practica de Python
+
+
 Problema 1 -> problema1.py y operaciones_basicas.py
 Problema 2-> problema2.py
 Problema 3 -> problema3.py
